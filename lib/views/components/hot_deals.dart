@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sewain_aku/utils/color.dart';
+import 'package:sewain_aku/utils/colors.dart';
 import 'package:sewain_aku/utils/sizes.dart';
 
 class HotDeals extends StatelessWidget {

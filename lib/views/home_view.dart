@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sewain_aku/utils/color.dart';
+import 'package:sewain_aku/utils/colors.dart';
 import 'package:sewain_aku/views/components/body.dart';
 
 class HomeView extends StatelessWidget {
