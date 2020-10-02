@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sewain_aku/utils/color.dart';
-import 'package:sewain_aku/utils/size.dart';
+import 'package:sewain_aku/utils/sizes.dart';
 import 'package:sewain_aku/views/components/hot_deals.dart';
 import 'package:sewain_aku/views/components/title_with_view_all_btn.dart';
 import 'package:sewain_aku/views/components/top_dealers.dart';

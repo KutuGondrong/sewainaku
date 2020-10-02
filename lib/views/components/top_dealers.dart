@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sewain_aku/utils/color.dart';
-import 'package:sewain_aku/utils/size.dart';
+import 'package:sewain_aku/utils/sizes.dart';
 
 class TopDealers extends StatelessWidget {
   const TopDealers({
