@@ -2,6 +2,8 @@
 
 Rental Mobil
 
+for more information : http://www.kutugondrong.com/aplikasi-soal-online-dibangun-dengan-flutter/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
