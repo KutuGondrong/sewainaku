@@ -1,12 +1,18 @@
 # sewain_aku
 
 Rental Mobil
-for more information : http://www.kutugondrong.com/tutorial-membuat-home-screen-menggunakan-bahasa-pemrograman-flutter/
+for more information : 
+http://www.kutugondrong.com/tutorial-membuat-home-screen-menggunakan-bahasa-pemrograman-flutter/
+
+
 ![alt text](http://www.kutugondrong.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-02-at-4.24.46-pm.png)
 
+another article : 
+http://www.kutugondrong.com/aplikasi-soal-online-dibangun-dengan-flutter/
 
-another article : http://www.kutugondrong.com/aplikasi-soal-online-dibangun-dengan-flutter/
+
 ![alt text](http://www.kutugondrong.com/wp-content/uploads/2020/10/delete-module.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
